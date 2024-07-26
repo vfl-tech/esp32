@@ -6,7 +6,7 @@ Este repositório é dedicado ao desenvolvimento de projetos utilizando o módul
 
 ## Estrutura do Repositório
 - **micropython/**: Exemplos e tutoriais utilizando MicroPython com ESP32.
-  - **assunto/docs: README dos assuntos abordados no Youtbe.
+  - **assunto/docs**: README dos assuntos abordados no Youtbe.
   - **assuntos/src/**: Source Code dos assuntos abordados no Youtube.
   
 ## Requisitos
