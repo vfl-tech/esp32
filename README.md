@@ -32,7 +32,7 @@ Este repositório é dedicado ao desenvolvimento de projetos utilizando o módul
 
 ### 3. Executar Exemplos em MicroPython
 - Conecte o ESP32 ao computador e abra o terminal serial.
-- Carregue e execute os scripts disponíveis na pasta `scripts/`.
+- Carregue e execute os scripts disponíveis.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um issue ou enviar um pull request.
